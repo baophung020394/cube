@@ -2,7 +2,7 @@
  * https://iamloc.info
  */
  body {
-    background-image: url(../img/bg.jpg);
+    background-image: url("../img/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left top;
@@ -62,73 +62,73 @@
   }
   
   .one {
-      background-image: url(../img/hinh1.jpg);
+      background-image: url("../img/hinh1.jpg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .two {
-      background-image: url(../img/hinh2.jpg);
+      background-image: url("../img/hinh2.jpg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .three {
-      background-image: url(../img/hinh3.jpg);
+      background-image: url("../img/hinh3.jpg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .four {
-      background-image: url(../img/hinh4.jpg);
+      background-image: url("../img/hinh4.jpg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .five {
-      background-image: url(../img/hinh5.jpg);
+      background-image: url("../img/hinh5.jpg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .six {
-      background-image: url(../img/hinh6.jpg);
+      background-image: url("../img/hinh6.jpg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .seven {
-      background-image: url(../img/hinh7.jpg);
+      background-image: url("../img/hinh7.jpg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .eight {
-      background-image: url(../img/hinh8.jpg);
+      background-image: url("../img/hinh8.jpg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .nine {
-      background-image: url(../img/hinh9.jpeg);
+      background-image: url("../img/hinh9.jpeg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .ten {
-      background-image: url(../img/hinh10.jpg);
+      background-image: url("../img/hinh10.jpg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .eleven {
-      background-image: url(../img/hinh11.jpeg);
+      background-image: url("../img/hinh11.jpeg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
 
   .twelve {
-      background-image: url(../img/hinh12.jpeg);
+      background-image: url("../img/hinh12.jpeg");
       background-size: 100% 100%;
       background-repeat: no-repeat;
   }
